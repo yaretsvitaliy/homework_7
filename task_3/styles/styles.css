@@ -1,0 +1,18 @@
+.textarea {
+	display: inline-block;
+	width: 600px;
+	height: 40px;
+	margin-bottom: 20px;
+	border-radius: 3px;
+	font-size: 20px;
+	border-color: black;
+}
+
+.buttom_text {
+	display: inline-block;
+	width: 100px;
+	height: 40px;
+	font-size: 20px;
+	border-radius: 3px;
+	background: #FF9966;
+}
